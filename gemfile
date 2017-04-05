@@ -6,6 +6,5 @@ gem 'rest-client'
 gem "mailgun-ruby"
 gem 'roadie'
 gem 'rerun'
-gem 'haml'
 gem 'slim'
 gem 'dotenv'

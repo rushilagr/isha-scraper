@@ -1,3 +1,5 @@
 runtime: ruby
 env: flex
 entrypoint: bundle exec ruby app.rb -p $PORT
+env_variables:
+  MY_VAR: 'my value'
