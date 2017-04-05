@@ -10,9 +10,11 @@
 /test/version_tmp/
 /tmp/
 
+*.yaml
+
 # Used by dotenv library to load environment variables.
 *.env
-*.yaml
+
 /*.env
 key.env
 /key.env
