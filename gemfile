@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'nokogiri'
+gem 'rest-client'
+gem "mailgun-ruby"
+gem 'roadie'
+gem 'rerun'
+gem 'haml'
+gem 'slim'
+gem 'dotenv'
